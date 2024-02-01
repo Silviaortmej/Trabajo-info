@@ -5,10 +5,11 @@ Created on Fri Dec 15 03:24:07 2023
 @author: Fer
 """
 hola
+holaaaaaaaa
 import random
 
 def generar_parametro():
-    p1 = np.random.randit(2,3)  
+    p1 = np.random.rand)  
     return p1
 
 
