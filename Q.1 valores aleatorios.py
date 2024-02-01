@@ -4,7 +4,7 @@ Created on Fri Dec 15 03:24:07 2023
 
 @author: Fer
 """
-
+hola
 import random
 
 def generar_parametro():
