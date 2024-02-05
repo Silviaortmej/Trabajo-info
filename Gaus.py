@@ -37,6 +37,7 @@ def Gauss (A, B):
 x = Gauss(A, B)
 print('\n El vector solución del sistema, x=', x)
 hasbhcibdchibcshcbucbuobafhbv
+zsfzargsetsryusry
 
 
 
