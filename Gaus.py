@@ -11,11 +11,7 @@ A = np.array ([[2,3,4,5], [6,15,19,23], [8,42,60,70], [12,60,1,17]])
 B = np.array ([5, 30, 98, 144])
 
 #Definimos la función Gauss.
-def Gauss (A, B):
-  #Nos aseguramos de que la matriz de coeficientes y la columna de términos independientes sean del tipo float. 
-  A = A.astype(float)
-  B = B.astype(float)
-  #Dimensión del sistema (el número de filas).
+jahsigayaviaflvbifvhbfak úmero de filas).
   n = A.shape[0]
   #Concatenamos A y B para hacer la matriz ampliada.
   AB = np.c_[A, B]
