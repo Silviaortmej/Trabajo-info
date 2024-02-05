@@ -39,7 +39,7 @@ print('\n El vector solución del sistema, x=', x)
 
 
 
-
+jshgyWEFGufhWURGVwjgvKGR
 
     
       
