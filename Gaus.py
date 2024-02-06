@@ -38,7 +38,7 @@ x = Gauss(A, B)
 print('\n El vector solución del sistema, x=', x)
 
 
-
+jhsxguya<dcf<sty
 
 
     
